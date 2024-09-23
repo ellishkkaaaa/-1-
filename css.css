@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(242, 157, 242);
+}
+
+.h1 {
+    justify-content: center;
+    display: flex;
+    font-weight: 100;
+    font-size: 70px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.h2 {
+    display: flex;
+    justify-content: right;
+}
+
+.imgs1 {
+    justify-content: center;
+    display: flex;
+}
+
+.img1 {
+    width: 900px;
+    height: 550px;
+}
+
+.img5 {
+    margin-left: 10px;
+    width: 600px;
+    height: 550px;
+}
+
+.imgs23 {
+    display: flex;
+    justify-content: center;
+}
+
+.img2 {
+    width: 750px;
+}
+
+.img3 {
+    margin-left: 10px;
+    width: 750px;
+}
+
+.imgs67 {
+    display: flex;
+    justify-content: center;
+}
+
+.img6 {
+    width: 500px;
+    height: 500px;
+}
+
+.img7 {
+    margin-left: 10px;
+    width: 750px;
+}
+
+.img8 {
+    display: flex;
+    justify-content: center;
+    margin-left: 200px;
+}
